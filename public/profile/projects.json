@@ -1,0 +1,84 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/DataLogX.jpg",
+            "title": "Data_LogX: Visualize & Analyze Your Data Here",
+            "bodyText": "Technologies Used: Next Js, Tailwind CSS, Node Js, Supabase, Modbus, IoT Techniques \n\n - Designed and developed Data_LogX, a SaaS application for monitoring and visualizing real-time sensor data. \n\n - Implemented live data visualization and graphical analysis tools for interactive insights into sensor performance. \n\n - Integrated Modbus Protocol and IoT communication techniques to enable seamless sensor data streaming.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/alok-more/Data-Logging-System"
+                },
+                {
+                    "text": "Live",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "Next.js",
+                "Tailwind CSS",
+                "Node.js",
+                "Supabase",
+                "Modbus",
+                "IoT"
+            ]
+        },
+        {
+            "image" : "images/projects/Pinavault.jpg",
+            "title": "PinaVault: VC Based File Access",
+            "bodyText": "- Verifiable Credentials based files access platform.\n - Developed the front end of PinaVault, a secure, decentralized file access platform, using Next.js, Tailwind CSS, and TypeScript for a responsive and user-friendly experience.\n - Explored and integrated Pinata's File Storage System APIs, implementing decentralized file-sharing mechanisms to enhance security, scalability, and privacy. \n - Integrated APIs to enable secure communication with decentralized storage services (Pinata, IPFS) and credential systems (CREDEBL).",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/alok-more/PinaVault.git"
+                }
+            ],
+            "tags" : [
+                "Next.js",
+                "Tailwind CSS",
+                "TypeScript",
+                "Pinata",
+                "IPFS",
+                "CREDEBL"
+            ]
+        },
+        {
+            "image" : "images/projects/sahara_workshop.png",
+            "title": "Sahara: A Car Workshop Platform",
+            "bodyText": "Technology Used: ReactJs, NodeJs, HTML, CSS, ExpressJs, MongoDB \n\n - Developed a basic full-stack web application for managing car workshop operations. \n - Key features include appointment scheduling, inventory management, and customer feedback. Utilized ReactJS for a dynamic and responsive frontend, NodeJS and ExpressJS for server-side logic, and MongoDB for efficient data storage and retrieval.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/alok-more/Sahara_Car_Workshop"
+                }
+            ],
+            "tags" : [
+                "React.js",
+                "Node.js",
+                "Express.js",
+                "MongoDB"
+            ]
+        },
+
+        {
+            "image" : "images/projects/portfolio-poster.jpg",
+            "title": "Developer Portfolio",
+            "bodyText": "Technologies Used: React Js, Javascript,  \n - Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://mayankagarwal.me"
+                }
+            ],
+            "tags" : [
+                "React",
+                "JavaScript",
+                "Portfolio"
+            ]
+        }
+    ]
+}

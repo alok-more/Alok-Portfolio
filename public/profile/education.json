@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "Aug 20233 - Pursuing",
+            "cardTitle": "B.Tech, Computer Science Engineering",
+            "cardSubtitle":"Vishwakarma University, Pune",
+            "cardDetailedText": "CGPA - 8.15"
+        },
+        {
+            "title": "Jun 2019 - May 2022",
+            "cardTitle": "Diploma, Mechatronics Engineering",
+            "cardSubtitle":"C. B. Kore Polytechnic, Chikodi Belgaum",
+            "cardDetailedText": "Marks - 79.93%"
+        },
+        {
+            "title": "Jun 2006 - May 2019",
+            "cardTitle": "10th, SSC Board",
+            "cardSubtitle":"Vishwakarma Vidyalaya, Pune",
+            "cardDetailedText": "Marks - 87.2%"
+        }
+    ]
+}
