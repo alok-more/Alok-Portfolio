@@ -1,10 +1,10 @@
-# Said MOUNAIM
+# Alok More
 
-Mounaim.dev is a personal project built with Next.js and TailwindCSS.
+ A personal project built with Next.js and TailwindCSS.
 
 ## Getting Started
 
-Clone the repository: `git clone https://github.com/saidMounaim/mounaim.dev.git`
+Clone the repository: `git clone https://github.com/alok-more/Alok-Portfolio`
 Install dependencies:
 
 ```
