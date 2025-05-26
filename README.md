@@ -1,16 +1,31 @@
-# Dev Portfolio 
+# Said MOUNAIM
 
-## Features
+Mounaim.dev is a personal project built with Next.js and TailwindCSS.
 
-⚡️ Modern UI Design + Reveal Animations\
-⚡️ Made with React\
-⚡️ Fully Responsive\
-⚡️ Easily Customizable\
-⚡️ Well organized documentation
+## Getting Started
 
+Clone the repository: `git clone https://github.com/saidMounaim/mounaim.dev.git`
+Install dependencies:
 
-## Why do you need a portfolio? ☝️
+```
+npm install
+```
 
-- Professional way to showcase your work
-- Increases your visibility and online presence
-- better chance of getting work opportunity
+Create a .env file:
+
+```
+EMAIL_USER=
+EMAIL_PASS=
+```
+
+## Customize Information
+
+Update your details in the `/constants/index.ts` file.
+
+## Built With
+
+- [Next.js 15](https://nextjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Shadcn/ui](https://ui.shadcn.com/)
+- [Nodemailer](https://www.nodemailer.com/)
