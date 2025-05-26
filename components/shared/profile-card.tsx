@@ -3,7 +3,6 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Github, Linkedin, Mail } from "lucide-react";
-import TwitterX from "./TwitterX";
 import { infos } from "@/constants";
 import Image from "next/image";
 import { useState } from "react";
