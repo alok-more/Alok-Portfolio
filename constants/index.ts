@@ -1,29 +1,26 @@
 export const bio =
-  "My name is Alok More. I am a passionate developer with experience in building responsive web applications using JavaScript, React.js, Next.js, Node.js, and various other libraries and frameworks.";
+  "My name is Alok More.  Proactive and detail-oriented Software Developer with strong experience in frontend development, Web3 applications, and IoT-based systems. Demonstrated expertise in building scalable and responsive web applications using modern frameworks such as React.js, Next.js, TypeScript, HTML, CSS, JavaScript. Passionate about solving complex technical problems, continuously learning emerging technologies, and contributing to impactful software products.";
 
 
 export const skills = [
   { name: "Frontend", items: ["React.js", "Next.js", "Tailwind CSS", "Astro.js", "JavaScript", "HTML5", "CSS"] },
-  { name: "Backend", items: ["Node.js", "Express", "Nest.js", "TypeScript", "JavaScript"] },
+  { name: "Backend", items: ["Node.js", "Express", "TypeScript"] },
   { name: "Database", items: ["MongoDB", "PostgreSQL", "MySQL", "Supabase"] },
   // { name: "CMS & Headless CMS", items: ["WordPress", "Strapi.js"] },
-  { name: "Tools & Platform", items: ["Git", "GitHub", "Postman", "VS Code", "Figma", "StarUML", "Draw.io", "Strapi"] },
-  { name: "Programming Languages", items: ["Java", "Python", "C#"] },
-  { name: "Computer Fundamentals", items: ["Operating System: Linux, Windows", "Object-Oriented Programming"] },
+  { name: "Tools & Platform", items: ["Git", "GitHub","JIRA", "Postman", "VS Code", "Figma", "Draw.io", "Strapi"] },
+  { name: "Programming Languages", items: ["C", "Java", "Python"] },
+  // { name: "Computer Fundamentals", items: ["Operating System: Linux, Windows", "Object-Oriented Programming"] },
 ];
 
 export const experience = [
     {
-    title: "Trainee/Intern Software Developer",
+    title: "Trainee / Intern Software Developer",
     company: "AYANWORKS Technology Solutions Private Limited",
     duration: "July 2024 - May 2025",
     description: [
-      "Developed dynamic and responsive web applications using Next.js, React, TypeScript, and Tailwind CSS.",
-      "Led research and implementation of Self-Sovereign Identity (SSI) solutions and Hyperledger technologies.",
-      "Contributed to Web3 and decentralized app (DApp) development, enhancing user identity security.",
-      "Participated in the entire software development lifecycle from architecture to deployment.",
-      "Managed tasks across multiple projects, demonstrating strong time management and collaboration.",
-      "Applied effective problem-solving techniques to deliver scalable, maintainable solutions."
+       "Developed dynamic and responsive web applications using React.js, Next.js, TypeScript, and Tailwind CSS.",
+       "Participated in the entire software development lifecycle from architecture to deployment.",
+       "Managed tasks across multiple projects, showcasing strong time management, problem-solving, and collaboration."
     ],
   },
 
@@ -32,10 +29,9 @@ export const experience = [
     company: "Protek Instruments Private Limited",
     duration:  "June 2023 - August 2023",
     description: [
-      "Engineered backend functionality using Node.js and MySQL, improving data storage and retrieval for IoT devices.",
-      "Implemented data logging features, optimizing real-time sensor data capture.",
-      "Configured industrial data protocols (RS485/RS232) using Modbus Poll and ModScan32.", 
-      "Gained hands-on experience in IoT integrations within industrial environments."
+       "Built the backend using Node.js and MySQL to create, read, update, and delete (CRUD) data for IoT devices.",
+       "Added features to log real-time sensor data, making it easier to track and analyze device information.",
+        "Set up RS485 and RS232 communication protocols using Modbus Poll and ModScan32 to connect with industrial machines."
     ],
   },
 ]
@@ -57,6 +53,13 @@ export const education = [
 ]
 
 export const projects = [
+    {
+    title: "EDUCREDS - Education Domain",
+    description:
+      "EduCreds is an education-focused platform that provides Design Studio, Issuance, and Micro Credentials features: Users can create certificates or mark sheets using the Design Studio or directly upload HTML versions for issuance. Students can log in, make payments, and access their credentials through the Sovio Wallet.",
+    techs: [ "React.js", "Next.js", "Tailwind CSS", "TypeScript", "Figma", "Supabase"],
+    link: "https://educreds.sovio.id/",
+  },
   {
     title: "IoT based Data Logging System",
     description:
